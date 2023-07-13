@@ -1,2 +1,5 @@
-# Simple-Page-Practice
-Baking shop (only html&amp;css)
+# Мой первый практический проект
+
+- Это простая страница [взгляните!](idhrill.github.io/Simple-Page-Practice/)
+* Используется только html&css
++ Страница пекарни
